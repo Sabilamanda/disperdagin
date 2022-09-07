@@ -109,8 +109,8 @@ background:	#4682B4;
 				<li><a href="video.php">Galeri Video</a></li>
         <li class="dropdown"><a href="#" id="navbarDropdownMenuLink"><span>Produk</span> <i class="bi bi-chevron-down"></i></a>
 			<ul>
-				<li><a href="produk.php">IKM</a></li>
-				<li><a href="produk-umkm.php">UMKM</a></li>
+				<li><a href="produk.php">Non Kuliner</a></li>
+				<li><a href="produk-umkm.php">Kuliner</a></li>
       </ul>
 				<li><a href="berita.php">Berita</a></li>
 				<li><a href="kegiatan.php">Agenda Kegiatan</a></li>				
@@ -129,20 +129,29 @@ background:	#4682B4;
 			  <li><a href="metro.php">UPTD METROLOGI LEGAL</a></li>
 			 </ul>
 		  
-		  <li class="dropdown"><a href="#" id="navbarDropdownMenuLink"><span>Informasi</span> <i class="bi bi-chevron-down"></i></a>
+       <li class="dropdown"><a href="#" id="navbarDropdownMenuLink"><span>Informasi</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-			  <li><a href="solusi.php">SOLUSI</a></li>
+          <li class="dropdown"><a href="#" id="navbarDropdownMenuLink"><span>UMKM</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+                    <li><a href="solusi.php">SOLUSI</a></li>
+                    <li><a href="daftarumkm.php">Prosedur Pendaftaran UMKM Online</a></li>
+            </ul>
 			  <li><a href="kepo.php">SI INDAG KEPO</a></li>
 			  <li><a href="sisdmk.php">SISDMK</a></li>
-			  <li><a href="iumk.php">Izin UMK</a></li>
-			  <li><a href="izinkoperasi.php">Izin Kantor Cabang</a></li>
-			  <li><a href="tatakoperasi.php">Pendirian Koperasi</a></li>			  
-			  <li><a href="perdagangan.php">Surat Izin Usaha Perdagangan</a></li>
-			  <li><a href="daftarumkm.php">Prosedur Pendaftaran UMKM Online</a></li>
+			  <!-- <li><a href="iumk.php">Izin UMK</a></li> -->
+        <li class="dropdown"><a href="#" id="navbarDropdownMenuLink"><span>Koperasi</span> <i class="bi bi-chevron-down"></i></a>
+			<ul>
+                <li><a href="izinkoperasi.php">Izin Kantor Cabang</a></li>
+                <li><a href="tatakoperasi.php">Pendirian Koperasi</a></li>
+            </ul>
+        <li class="dropdown"><a href="#" id="navbarDropdownMenuLink"><span>Perdagangan</span> <i class="bi bi-chevron-down"></i></a>
+			<ul>
+                <li><a href="ekspor.php">Syarat Eksportir</a></li>
+                <li><a href="teraulang.php">Standar Pelayanan Minimal Metrologi</a></li>
+            </ul>
+			  <!-- <li><a href="perdagangan.php">Surat Izin Usaha Perdagangan</a></li> -->
 			  <li><a href="perindustrian.php">Fasilitasi Pendaftaran Halal MUI</a></li>
-			  <li><a href="ekspor.php">Syarat Eksportir</a></li>
 			  <li><a href="izintoko.php">Rekomendasi Izin Usaha Toko Modern</a></li>
-			  <li><a href="teraulang.php">Standar Pelayanan Minimal Metrologi</a></li>
 			 </ul>
 		  </li>
 		  

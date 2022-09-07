@@ -108,8 +108,8 @@
 						 <li><a href="galeri.php" aria-expanded="false"><i class="fa fa-file-image-o sub-icon-mg"></i> <span class="mini-click-non">Galeri</span></a></li>
                          <li><a class="has-arrow" data-toggle="collapse" data-target="#Charts" href="#"><i class="fa fa-bookmark icon-wrap sub-icon-mg"></i> <span class="mini-click-non">Produk</span></a>
 						 <ul class="collapse dropdown-header-top">
-                         <li><a href="produk.php" aria-expanded="false"><i class="fa fa-bolt sub-icon-mg"></i> <span class="mini-click-non">IMK</span></a></li>
-						 <li><a href="produk-umkm.php" aria-expanded="false"><i class="fa fa-bolt sub-icon-mg"></i> <span class="mini-click-non">UMKM</span></a></li>
+                         <li><a href="produk.php" aria-expanded="false"><i class="fa fa-bolt sub-icon-mg"></i> <span class="mini-click-non">Non Kuliner</span></a></li>
+						 <li><a href="produk-umkm.php" aria-expanded="false"><i class="fa fa-bolt sub-icon-mg"></i> <span class="mini-click-non">Kuliner</span></a></li>
                          </ul>
 						 <li><a href="artikel.php" aria-expanded="false"><i class="fa big-icon fa-table icon-wrap"></i> <span class="mini-click-non">Agenda</span></a></li>
 						 <li><a class="has-arrow" data-toggle="collapse" data-target="#Charts" href="#"><i class="fa fa-square sub-icon-mg"></i> <span class="mini-click-non">Berita</span></a>

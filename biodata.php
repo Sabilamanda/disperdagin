@@ -71,11 +71,11 @@
 <p>&nbsp;</p>
 <p><br /><strong>PENDIDIKAN :</strong></p>
 <ul>
-<li>SDN 01 Kroya&nbsp;(1234)</li>
-<li>SMPN Kroya&nbsp;(1981)</li>
-<li>SMAN&nbsp;01&nbsp;(1984)</li>
-<li>S1 Sosiatri FISIP UGM (1989)</li>
-<li>S2 Magister Kajian Wanita UI (2002)</li>
+<li>SDN &nbsp;</li>
+<li>SMPN &nbsp;</li>
+<li>SMAN&nbsp;&nbsp;</li>
+<li>S1</li>
+<li>S2</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>RIWAYAT JABATAN STRUKTURAL :</strong></p>

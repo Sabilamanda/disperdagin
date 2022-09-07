@@ -63,7 +63,7 @@ include ('header.php');
 				  $row=mysqli_fetch_array($data);
 						
 				 			  
-				  
+                                  $foto=$row['foto'];
 								  $id_pegawai=$row['id_pegawai']; // diketik user dikasih disini
 								  $nip=$row['nip'];
 								  $nama_peg=$row['nama_peg'];
@@ -71,7 +71,7 @@ include ('header.php');
 								  $jk=$row['jk'];
 								  $jenis=$row['jenis'];
 								  $jabatan=$row['jabatan'];
-                                  $foto=$row['foto'];  
+                                    
 				  
 				  
 				  ?>
